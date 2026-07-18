@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dda_raycaster/dda_raycaster.vcxproj" Id="bf3f58d7-137b-4939-bf32-fd2179771a5b" />
+</Solution>
