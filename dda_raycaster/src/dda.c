@@ -1,5 +1,6 @@
 #include "player.h"
 #include "map.h"
+#include "dda.h"
 #include <math.h>
 
 extern void draw_column(int x, int draw_start, int draw_end, int wall_type, int side);
