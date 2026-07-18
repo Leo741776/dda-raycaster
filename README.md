@@ -32,5 +32,5 @@ Clearly structured separation between core engine systems:
 
 ## Screenshots
 <p align="center">
-  <img src="insert_link_here" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/09be24c8-5449-4da4-ba67-5e84a4c18860" width="50%"/>
 </p>
